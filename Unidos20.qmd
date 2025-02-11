@@ -1,0 +1,352 @@
+---
+format: revealjs
+editor: visual
+---
+
+::: columns
+::: {.column width="15%"}
+![](images/clipboard-1808645846.png){width="105"}
+:::
+
+::: {.column width="70%"}
+::: {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+Київський національний університет імені Тараса Шевченка
+:::
+
+::: {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+Факультет соціології
+:::
+
+::: {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+Навчальна лабораторія з прикладних соціологічних досліджень
+:::
+:::
+
+::: {.column width="15%"}
+![](images/clipboard-3998324347.png){width="90"}
+:::
+:::
+
+<br>
+
+<br>
+
+<br>
+
+::: {style="font-size: 32pt; text-align: center; font-family: Helvetica;"}
+**УНІВЕРСИТЕТСЬКЕ ДОСЛІДЖЕННЯ UNiDOS-20**
+:::
+
+## Вибіркова сукупність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [20 хвиля UNiDOS проводилася з листопада до грудня 2024 року. У ньому взяли участь 2893 студенти 2 курсів бакалаврату і старше]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Опитування охопило студентів 21 факультету/інституту та 53 спеціальностей КНУ]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Опитування проводилось у середовищі LimeSurvey шляхом розсилки запрошень на електронні адреси студентів, що були надані факультетами/інститутами. Збір інформації був анонімізований. Спершу кожному студенту надсилалось запрошення для проходження опитування. Якщо певний час не надходило відповіді або вона була неповна, йому надсилалось нагадування]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Загальний рівень відгуку становить 18.9% від загальної кількості студентів, яким було надіслано запрошення та є дещо меншим, порівняно з 19 хвилею UNiDOS]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Найбільший рівень відгуку спостерігається серед студентів ННІ високих технологій (61.1%), а найнижчий відгук був серед студентів ННІ міжнародних відносин (1.6%)]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+## Вибіркова сукупність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21579030/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="53%"}
+<iframe src="https://flo.uri.sh/visualisation/21532365/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:450px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+[Середній вік студентів – **20.43 років**]{style="font-family: Helvetica; font-size: 18pt;"}
+:::
+
+::: {.column width="47%"}
+<iframe src="https://flo.uri.sh/visualisation/21532368/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:250px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+<iframe src="https://flo.uri.sh/visualisation/21532476/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:370px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+::: columns
+::: {.column width="56%"}
+<iframe src="https://flo.uri.sh/visualisation/21532385/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:580px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="44%"}
+<iframe src="https://flo.uri.sh/visualisation/21532390/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:480px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+::: columns
+::: {.column width="52%"}
+<iframe src="https://flo.uri.sh/visualisation/21532381/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="48%"}
+<iframe src="https://flo.uri.sh/visualisation/21532396/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="50%"}
+<iframe src="https://flo.uri.sh/visualisation/21532400/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:500px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="50%"}
+<iframe src="https://flo.uri.sh/visualisation/21532403/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Соціально-демографічні характеристики: висновки {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Серед опитаних студентів дівчата складають 62.4%, хлопці – 37.6%]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Середній вік студентів становить 20.43 років]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [75.6% респондентів навчаються за бюджетною формою, 24.4% – за контрактною]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [32.2% студентів навчаються на другому курсі, 21.7% – на третьому, а 18.8% – на четвертому. 25.3% опитаних є студентами магістратури (не ОП "Медицина"), а 2% респондентів – студенти ОП "Медицина"]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [25.2% студентів, оцінюючи матеріальне становище своєї родини, вказали, що коштів вистачає на продукти харчування й одяг, однак покупка речей довготривалого використання викликає труднощі. Ще 24.8% опитаних зазначили, що коштів вистачає на все необхідне й вони роблять заощадження, а 20.5% сказали, що грошей вистачає на все необхідне, однак їм не до заощаджень. 12.1% студентів зазначили, що живуть у повному достатку]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Для 66.7% респондентів мовою повсякденного спілкування виступає лише або переважно українська, для 9.6% – лише або переважно російська. 20.2% опитаних зазначили, що спілкуються українською та російською рівною мірою]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Соціально-демографічні характеристики: висновки {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Найбільше респондентів до 24.02.2022 проживали, переважно, у Києві (41%) та Київській області (17.6%). Найменше студентів було із Закарпатської (0.6%), Миколаївської (0.6%) областей та АР Крим (0.1%)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [23.1% опитаних наразі проживають у студентському гуртожитку КНУ, ще 33.1% – в Києві у власному житлі (разом з батьками або без них). 23.5% опитаних винаймають житло у Києві, а 9.6% живуть в Київській області у власному житлі]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"} [(з батьками чи без них)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [70% респондентів не змінювали місце проживання через повномасштабну війну. Натомість 11.3% студентів вказали, що були змушені виїхати за кордон, а 21.2% – до іншого населеного пункту України]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [5.7% студентів зазначили, що мають досвід проживання на окупованій території після 24.02.2022. Також 2.8% мали такий досвід з 2014 року до початку повномасштабного вторгнення]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [19.4% респондентів вказали, що мали досвід проживання у зоні бойових дій під час вторгнення. 4.2% опитаних відзначили, що проживали в зоні бойових дій у період з 2014 року до початку повномасштабної війни]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Вступ до магістратури {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: {style="font-family: Helvetica; font-size: 15pt; text-align: justify; color: DarkSlateGray;"}
+**81.5% опитаних магістрів 1 року навчання сказали, що вступили на магістратуру одразу по завершенню бакалаврату. Найбільше вони схильні погоджуватися із тим, що вступили на магістратуру, бо хочуть мати успішну кар'єру й хорошу роботу, а також тому, що їм подобається навчатись**
+:::
+
+<iframe src="https://flo.uri.sh/visualisation/21532408/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:580px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Навчальна діяльність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21533360/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Навчальна діяльність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21533507/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Навчальна діяльність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21533551/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Навчальна діяльність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21533677/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:650px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Академічна доброчесність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21534168/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Академічна доброчесність {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21534035/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:650px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Навчальна діяльність та академічна доброчесність: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [55.9% респондентів вказали, що відвідували 76%-100% лекційних занять. А 70.2% опитаних зазначили, що відвідували 76%-100% семінарських/практичних занять. Найчастіше 76%-100% лекцій відвідували студенти ННІ публічного управління та державної служби, а рідше за все – студенти факультету комп'ютерних наук та кібернетики. Щодо відвідуваності семінарських/практичних, частіш за все 76%-100% занять відвідували студенти ННІ міжнародних відносин, а рідше за все – студенти факультету соціології (серед них також і найбільша, порівняно з рештою факультетів/інститутів, частка тих, хто відвідував 0%-25% всіх практичних/семінарських) ]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [У 44.1% опитаних середній бал за минулий семестр знаходиться в межах від 90 балів і вище, у 46.2% – від 75 до 89 балів. Найбільша частка студентів з балом від 90 і вище серед студентів ННІ журналістики та факультету соціології, а найнижча – серед студентів ФРЕКС (там же і найбільший відсоток студентів, бали яких знаходяться в діапазоні від 60 до 74)]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Респонденти схильні високо оцінювати свою старанність: загалом вважають себе старанними студентами; намагаються викладатися на повну під час виконання навчальних завдань і проєктів; схильні доводити завдання/проєкт до кінця; докладають стільки ж зусиль у кінці виконання завдання, скільки і на початку]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Навчальна діяльність та академічна доброчесність: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Студенти демонструють досить значну впевненість у собі, адже схильні вірити, що зможуть вирішити труднощі, пов'язані з навчанням, успішно виконувати будь-яке навчальне завдання, адаптуватися до викликів, пов'язаних з навчанням. Однак вони дещо менш схильні бути згодними із тим, що зможуть добре навчатися навіть у складних та стресових умовах]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [29.5% опитаних відзначили, що жодного разу не списували на іспитах чи заліках минулого навчального семестру. 27.5% сказали, що робили це вкрай рідко, а 26.6% – іноді. 16.3% респондентів вказали, що списували на заліках іспитах минулого семестру часто або дуже часто]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [Студенти, загалом, демонструють значну впевненість у своїй здатності гнучко й творчо використовувати свої знання для вирішення складних завдань на іспиті. Найменше вони впевнені у тому, що навіть за недостатності знань вирішать завдання іспиту краще, ніж списуючи]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+-   [44% студентів не погоджуються з тим, що списування для них є абсолютно неприпустимим, а погоджуються з цим 36.8% опитаних. Значна частка респондентів (63.6%) схильні погоджуватися з тим, що вони ретельно готуються до іспитів. 65.2% студентів не згодні з тим, що їм байдуже на свою оцінку за іспит, а погодились із цим 21.3% опитаних]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Оцінка КНУ та його підрозділів {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21560959/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка КНУ та його підрозділів {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21561363/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка КНУ та його підрозділів {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21561580/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка якості освітнього процесу в КНУ {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21561742/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка якості освітнього процесу в КНУ {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21562132/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка якості освітнього процесу в КНУ {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21562217/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка якості освітнього процесу в КНУ {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21562320/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:620px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка якості освітнього процесу в КНУ {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21562414/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:670px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Оцінка КНУ та його підрозділів + оцінка якості освітнього процесу: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Загалом студенти виявляють значну готовність рекомендувати своїм друзям, родичам, знайомим КНУ (середнє становить 6.78) та свій факультет/інститут (середнє становить 6.79)]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Найвищу готовність рекомендувати КНУ мають студенти ННІ публічного управління та державної служби і філософського факультету, а найнижчу – респонденти факультету комп'ютерних наук та кібернетики. Щодо факультету/інституту, найбільш готові його рекомендувати своїм родичам, друзям, знайомим знову таки студенти ННІ публічного управління та державної служби, а найменше – студенти ФРЕКС]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Якщо вести мову про оцінку підрозділів КНУ, більше половини студентів відповіли, що не знають про існування 8 підрозділів з 12 наведених. Можна сказати, що студенти обізнані лише про такі підрозділи як деканат, методисти факультету/інституту, студпарламент КНУ та студпарламент факультету/інституту. Загалом студенти демонструють значну задоволеність діяльністю вказаних чотирьох підрозділів]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Якщо казати про оцінку якості освітніх послуг, то загалом респонденти досить добре оцінюють як КНУ (середнє становить 3.8), так і свій факультет/інститут (середнє становить 3.88)]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+## Оцінка КНУ та його підрозділів + оцінка якості освітнього процесу: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Найкраще якість освітніх послуг, що надаються КНУ, оцінюють студенти ННІ публічного управління та державної служби. Вони ж і найкраще оцінюють якість освітніх послуг, що надаються їхнім інститутом. Найнижче якість послуг у КНУ оцінюють опитані хімічного факультету. А студенти факультету інформаційних технологій найнижче оцінюють якість освітніх послуг свого факультету]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Загалом студенти схильні демонструвати значну задоволеність майже кожним з аспектів освітнього процесу у КНУ (на факультеті/інституті). Менш за все студенти задоволені матеріально-технічним забезпеченням як от станом обладнання для навчального процесу та станом будівель і приміщень, забезпеченням актуальними навчальними матеріалами, а також сприянням підвищенню у студентів впевненості у собі ]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Найвищу задоволеність опитані демонструють з приводу такого аспекту як охайність зовнішнього вигляду та відповідність дрес-коду співробітників факультету/інституту. Також привертає увагу значний відсоток тих, хто не визначився з відповіддю на запитання про ставлення викладачів з розумінням до студентів з інвалідністю: схоже, респонденти не мали досвіду зіткнення із такими ситуаціями]{style="font-family: Helvetica; font-size: 17pt; text-align: justify;"}
+
+## Робота {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="43%"}
+<iframe src="https://flo.uri.sh/visualisation/21562552/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="57%"}
+<iframe src="https://flo.uri.sh/visualisation/21562627/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Робота {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+::: columns
+::: {.column width="42%"}
+<iframe src="https://flo.uri.sh/visualisation/21562822/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+
+::: {.column width="58%"}
+<iframe src="https://flo.uri.sh/visualisation/21562909/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:650px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+:::
+:::
+
+## Плани на майбутнє {style="font-size: 18pt; text-align: center; font-family: Helvetica;"}
+
+<iframe src="https://flo.uri.sh/visualisation/21532378/embed" title="Interactive or visual content" class="flourish-embed-iframe" frameborder="0" scrolling="no" style="width:100%;height:600px;" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation">
+
+</iframe>
+
+## Робота + плани на майбутнє: висновки {style="font-size: 17pt; text-align: center; font-family: Helvetica;"}
+
+<br>
+
+-   [Трохи більше половини студентів не працюють, 28.8% працюють на постійній основі, а 18.4% працюють, однак не постійно]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Серед працюючих частка студентів, котрі працюють за фахом або мають роботу, суміжну до фаху, становить 62.2%. Відповідно, 37.7% опитаних (серед тих, хто має роботу) працюють не за фахом]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Найбільш поширеною причиною роботи не за фахом респонденти називають недостатню кількість знань та навичок для роботи за фахом (54%). Також досить вагомими причинами є відсутність пропозицій на ринку праці (40.7%) та незадовільний розмір заробітної плати (34%)]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Найбільше респонденти потребують від КНУ консультацій з пошуку першого робочого місця (46.4%) та допомоги у пошуку відкритих вакансій (44.4%). 26.6% опитаних зазначають, що не потребують допомоги КНУ у питаннях працевлаштування]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
+
+-   [Частіш за все студенти вказують, що після завершення навчання хотіли б працювати за фахом в Україні (56.3%). Ще близько третини опитаних планують продовжити навчання за фахом в Україні]{style="font-family: Helvetica; font-size: 18pt; text-align: justify;"}
